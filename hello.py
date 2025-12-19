@@ -13,7 +13,3 @@ while i>0:
 print("Liftoff!")
 for i in range(5):
     print("Iteration:", i)
-
-def greet(name):
-    return f"Hello, {name}!"
-print(greet("Alice"))
